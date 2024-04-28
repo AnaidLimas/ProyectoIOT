@@ -42,4 +42,6 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 | <img src="URL_de_la_imagen16" alt="PIR" height="50px"/>               | PIR                  | Sensor de Movimiento          | 1        | $49     |
 | <img src="URL_de_la_imagen17" alt="Botón" height="50px"/>             | Botón                | Dispositivo de Entrada        | 1        | $5      |
 
+## Dashboard Node-Red
 
+## Tablas de Postgres
