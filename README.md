@@ -16,3 +16,18 @@ El objetivo principal de este proyecto es facilitar la forma en la cual los disp
 | Grafana   | Versión más Reciente | Monitoreo de Datos   |
 | Node-red  | Versión más Reciente | Conexión a Internet |
 
+# Configuración de Hardware
+
+## Descripción
+La configuración de hardware utilizada en este proyecto es fundamental para el funcionamiento del sistema de control de dispositivos con aplausos. A continuación se detallan los componentes principales necesarios para implementar el sistema.
+
+## Hardware Utilizado
+
+| Imagen       | Nombre de Software | Tipo          | Cantidad | Precio  |
+|--------------|--------------------|---------------|----------|---------|
+| ![image](https://github.com/AnaidLimas/ProyectoIOT/assets/142760991/a39781fc-b4a4-4307-968a-e3b1e83d1ddd)
+ | Micrófono           | Sensor de Sonido | 1        | $X      |
+| [Imagen2]() | Raspberry Pi 4      | Placa de Desarrollo | 1        | $Y      |
+| [Imagen3]() | Relé                | Dispositivo de Conmutación | 1        | $Z      |
+| [Imagen4]() | Cables y Conectores | Accesorios   | Varios   | $W      |
+
