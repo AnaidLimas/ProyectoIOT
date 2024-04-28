@@ -25,9 +25,10 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 
 | Imagen       | Nombre de Software | Tipo          | Cantidad | Precio  |
 |--------------|--------------------|---------------|----------|---------|
-| ![image](https://github.com/AnaidLimas/ProyectoIOT/assets/142760991/a39781fc-b4a4-4307-968a-e3b1e83d1ddd)
- | Micrófono           | Sensor de Sonido | 1        | $X      |
+| [![image](https://github.com/AnaidLimas/ProyectoIOT/assets/142760991/56633388-8bd9-406d-bb6e-4f6a27b5845d)
+]() | Micrófono           | Sensor de Sonido | 1        | $X      |
 | [Imagen2]() | Raspberry Pi 4      | Placa de Desarrollo | 1        | $Y      |
 | [Imagen3]() | Relé                | Dispositivo de Conmutación | 1        | $Z      |
 | [Imagen4]() | Cables y Conectores | Accesorios   | Varios   | $W      |
+
 
