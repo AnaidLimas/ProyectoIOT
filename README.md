@@ -44,5 +44,7 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 
 
 ## Dashboard Node-Red
+# Dashboard Citlali
+<img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/16167a140/micro-switch-de-push-con-4-terminales.jpg" alt="Botón" height="50px"/>
 
 ## Tablas de Postgres
