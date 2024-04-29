@@ -26,11 +26,11 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 | Imagen                                                                 | Nombre de Hardware   | Tipo                          | Cantidad | Precio  |
 |------------------------------------------------------------------------|----------------------|-------------------------------|----------|---------|
 | <img src="https://m.media-amazon.com/images/I/715lLPSw2GL._AC_UF894,1000_QL80_.jpg" alt="Raspberry Pi 4" height="50px"/>     | Raspberry Pi 4       | Placa de Desarrollo           | 1        | $1400   |
-| <img src="https://uelectronics.com/wp-content/uploads/AR1191-ESP32-38-Pin.jpg" alt="ESP32" height="50px"/>              | ESP32                | Microcontrolador              | 3        | $160    |
-| <img src="URL_de_la_imagen3" alt="OLED" height="50px"/>               | OLED                 | Pantalla                      | 1        | $60     |
-| <img src="URL_de_la_imagen4" alt="Relé" height="50px"/>               | Relé                 | Dispositivo de Conmutación    | 2        | $45     |
-| <img src="URL_de_la_imagen6" alt="KY-038" height="50px"/>             | KY-038               | Sensor de Sonido              | 1        | $20     |
-| <img src="URL_de_la_imagen7" alt="Foco" height="50px"/>               | Foco                 | Dispositivo de Iluminación    | 1        | $20     |
+| <img src="https://uelectronics.com/wp-content/uploads/AR1191-ESP32-38-Pin.jpg" alt="ESP32" height="60px"/>              | ESP32                | Microcontrolador              | 3        | $160    |
+| <img src="https://esphome.io/_images/ssd1306-full.jpg" alt="OLED" height="50px"/>               | OLED                 | Pantalla                      | 1        | $60     |
+| <img src="https://proserquisa.com/principal/inicio/uploads/modulo-rele.jpg" alt="Relé" height="50px"/>               | Relé                 | Dispositivo de Conmutación    | 2        | $45     |
+| <img src="https://www.prometec.net/wp-content/uploads/2016/04/sensor-sonido-ky-038.jpg" alt="KY-038" height="50px"/>             | KY-038               | Sensor de Sonido              | 1        | $20     |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72bsW5fJ_Yzoi3y140iJAni_YL3GibPNdmW6QuosD0ugU3fIvtoD8RDDy9YskG4LSeiA&usqp=CAU" alt="Foco" height="50px"/>               | Foco                 | Dispositivo de Iluminación    | 1        | $20     |
 | <img src="URL_de_la_imagen8" alt="Socket" height="50px"/>             | Socket               | Conector Eléctrico            | 1        | $10     |
 | <img src="URL_de_la_imagen9" alt="Extensión Eléctrica" height="50px"/>| Extensión Eléctrica | Accesorio                     | 1        | $70     |
 | <img src="URL_de_la_imagen10" alt="Ventilador" height="50px"/>        | Ventilador           | Dispositivo de Ventilación    | 1        | $100    |
