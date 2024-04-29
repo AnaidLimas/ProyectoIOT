@@ -59,3 +59,6 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 
 ### Tabla de sensores
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/tSensors.jpg?raw=true" alt="Sensores"/>
+
+## Diagrama de conexión
+<img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/tSensors.jpg?raw=true" alt="Diagrama"/>
