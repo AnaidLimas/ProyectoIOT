@@ -11,7 +11,7 @@ El objetivo principal de este proyecto es facilitar la forma en la cual los disp
 
 | Nombre    | Versión           | Tipo                |
 |-----------|-------------------|---------------------|
-| Thony     | Versión más Reciente | Interprete de Código |
+| Arduino     | Versión más Reciente | Interprete de Código |
 | Postgres  | Versión más Reciente | Base de Datos SQL    |
 | Grafana   | Versión más Reciente | Monitoreo de Datos   |
 | Node-red  | Versión más Reciente | Conexión a Internet |
