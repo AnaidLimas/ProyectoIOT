@@ -26,7 +26,7 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 | Imagen                                                                 | Nombre de Hardware   | Tipo                          | Cantidad | Precio  |
 |------------------------------------------------------------------------|----------------------|-------------------------------|----------|---------|
 | <img src="https://m.media-amazon.com/images/I/715lLPSw2GL._AC_UF894,1000_QL80_.jpg" alt="Raspberry Pi 4" height="50px"/>     | Raspberry Pi 4       | Placa de Desarrollo           | 1        | $1400   |
-| <img src="URL_de_la_imagen2" alt="ESP32" height="50px"/>              | ESP32                | Microcontrolador              | 3        | $160    |
+| <img src[="URL_de_la_imagen2](https://uelectronics.com/wp-content/uploads/AR1191-ESP32-38-Pin.jpg)" alt="ESP32" height="50px"/> | ESP32                | Microcontrolador              | 3        | $160    |
 | <img src="URL_de_la_imagen3" alt="OLED" height="50px"/>               | OLED                 | Pantalla                      | 1        | $60     |
 | <img src="URL_de_la_imagen4" alt="Relé" height="50px"/>               | Relé                 | Dispositivo de Conmutación    | 2        | $45     |
 | <img src="URL_de_la_imagen6" alt="KY-038" height="50px"/>             | KY-038               | Sensor de Sonido              | 1        | $20     |
