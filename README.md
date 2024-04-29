@@ -44,18 +44,18 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 
 
 ## Dashboard Node-Red
-# Dashboard Citlali
+### Dashboard Citlali
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/dashCitlali.jpg?raw=true" alt="Dashboard"/>
 
-# Dashboard Dalia
+### Dashboard Dalia
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/dashDali.jpg?raw=true" alt="Dashboard"/>
 
 ## Tablas de Postgres
-# Tabla de registros 
+### Tabla de registros 
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/registros.jpg?raw=true" alt="Registros"/>
 
-# Tabla de usuarios
+### Tabla de usuarios
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/tUsers.jpg?raw=true" alt="Usuarios"/>
 
-# Tabla de sensores
+### Tabla de sensores
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/tSensors.jpg?raw=true" alt="Sensores"/>
