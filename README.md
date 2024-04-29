@@ -34,13 +34,13 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 | <img src="https://www.vaqueiros.mx/wp-content/uploads/2023/09/socket-para-foco-volteck-de-porcelana-3-1-2-redonda-popo-15-46523-e1693607611662.jpg" alt="Socket" height="50px"/>             | Socket               | Conector Eléctrico            | 1        | $10     |
 | <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQj7ylRem2zsCZAH2h5xt8ZeS1ZcBNYsiwAo1qg38h167m-CAcFMluqgkR6OklqkTG2cD_EeRhkPWkc8_p_ya0o2t7WPIZYs7BklmjoUh5nYaqeK-PqQdvA&usqp=CAE" alt="Extensión Eléctrica" height="50px"/>| Extensión Eléctrica | Accesorio                     | 1        | $70     |
 | <img src="https://i5.walmartimages.com.mx/mg/gm/3pp/asr/63f726eb-6ca9-47c6-8132-176792c8505c.795187b5f121b42a748a4de704a052e8.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" alt="Ventilador" height="50px"/>        | Ventilador           | Dispositivo de Ventilación    | 1        | $100    |
-| <img src="URL_de_la_imagen11" alt="Buzzer" height="50px"/>            | Buzzer               | Dispositivo Acústico          | 2        | $15     |
-| <img src="URL_de_la_imagen12" alt="Placa Fenólica" height="50px"/>    | Placa Fenólica       | Material de Construcción      | 1        | $20     |
-| <img src="URL_de_la_imagen13" alt="Placa Protoboard" height="50px"/>  | Placa Protoboard     | Accesorio                     | 3        | $100    |
-| <img src="URL_de_la_imagen14" alt="Cables Dupont" height="50px"/>     | Cables Dupont        | Accesorios                    | 120      | $100    |
-| <img src="URL_de_la_imagen15" alt="DHT11" height="50px"/>             | DHT11                | Sensor de Humedad y Temperatura | 1     | $50     |
-| <img src="URL_de_la_imagen16" alt="PIR" height="50px"/>               | PIR                  | Sensor de Movimiento          | 1        | $49     |
-| <img src="URL_de_la_imagen17" alt="Botón" height="50px"/>             | Botón                | Dispositivo de Entrada        | 1        | $5      |
+| <img src="https://www.prometec.net/wp-content/uploads/2014/10/buzzer.jpg" alt="Buzzer" height="50px"/>            | Buzzer               | Dispositivo Acústico          | 2        | $15     |
+| <img src="https://www.steren.com.mx/media/catalog/product/cache/295a12aacdcb0329a521cbf9876b29e7/image/1512680a5/placa-fenolica-perforada-con-pistas-de-7-5-cm-x-4-5-cm.jpg" alt="Placa Fenólica" height="50px"/>    | Placa Fenólica       | Material de Construcción      | 1        | $20     |
+| <img src="https://m.media-amazon.com/images/I/61+nStDwtIL._AC_UF1000,1000_QL80_.jpg" alt="Placa Protoboard" height="50px"/>  | Placa Protoboard     | Accesorio                     | 3        | $100    |
+| <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/222589050/juego-de-120-cables-de-20-cm-tipo-dupont.jpg" alt="Cables Dupont" height="50px"/>     | Cables Dupont        | Accesorios                    | 120      | $100    |
+| <img src="https://static.wixstatic.com/media/d96bda_eb68a6df87924bafb8a2c84d4334f755~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/d96bda_eb68a6df87924bafb8a2c84d4334f755~mv2.jpg" alt="DHT11" height="50px"/>             | DHT11                | Sensor de Humedad y Temperatura | 1     | $50     |
+| <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/19454216b/sensor-de-movimiento-pir.jpg" alt="PIR" height="50px"/>               | PIR                  | Sensor de Movimiento          | 1        | $49     |
+| <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/16167a140/micro-switch-de-push-con-4-terminales.jpg" alt="Botón" height="50px"/>             | Botón                | Dispositivo de Entrada        | 1        | $5      |
 
 
 ## Dashboard Node-Red
