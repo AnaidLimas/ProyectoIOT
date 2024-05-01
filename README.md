@@ -75,3 +75,5 @@ https://drive.google.com/drive/folders/1FGeVFKWo7CIHTikJNcU8t-mCxidyBba_
 
 ## Códigos
 https://github.com/AnaidLimas/ProyectoIOT/tree/e6f27aaa8548864de6f53a2ca1c1f22838e4e91c/proyectoIoT
+https://github.com/AnaidLimas/ProyectoIOT/blob/main/PIR_Buzzer.ino
+https://github.com/AnaidLimas/ProyectoIOT/blob/main/Ventilador.ino
