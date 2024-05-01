@@ -69,3 +69,6 @@ La configuración de hardware utilizada en este proyecto es fundamental para el 
 
 ## Carta de agradecimiento al profesor 
 <img src="https://github.com/AnaidLimas/ProyectoIOT/blob/main/agradecimiento.jpg?raw=true" alt="Carta"/>
+
+## Vídeos Funcionalidad 
+https://drive.google.com/drive/folders/1FGeVFKWo7CIHTikJNcU8t-mCxidyBba_
